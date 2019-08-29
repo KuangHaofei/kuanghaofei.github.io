@@ -258,7 +258,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h4.widget-title {
-  font-size: 28px;
+  font-size: 26px;
   font-family: 'robotobold';
   text-transform: uppercase;
   margin-bottom: 40px;
@@ -322,7 +322,7 @@ hr {
 h3.profile-title {
   margin-bottom: 5px;
   color: white;
-  font-size: 28px;
+  font-size: 26px;
   font-family: 'robotobold';
 }
 
@@ -658,7 +658,7 @@ h3.profile-title {
   margin-top: 10px;
   margin-bottom: 10px;
   list-style: disc;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .life-item-content table {
@@ -763,7 +763,7 @@ h3.profile-title {
 
 .project-title {
   display: inline-block;
-  font-size: 26px;
+  font-size: 24px;
 }
 
 .project-author {
